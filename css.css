@@ -1,6 +1,19 @@
-body{ background: }
+
 h1 {
-color:#FF000 ;
-font-size:53.8 ;
-font-family: opensauce ;
+color: black ;
+font-size:300%;
+font-family: opensans ;
+text-align: center;
+}
+h2 {
+color: black ;
+font-size:225%;
+font-family: opensans ;
+text-align: center;
+}
+p {
+  color: black;
+  font-family: opensans;
+  font-size: 160%;
+  text-align: justify;
 }
